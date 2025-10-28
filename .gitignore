@@ -1,0 +1,16 @@
+﻿# Entorno virtual
+venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Base de datos
+centrocap.db
+
+# Archivos de entorno
+.env
+
+# IDE
+.vscode/
+.idea/
